@@ -146,7 +146,7 @@ published: true
 
  
 
-**Archéologie innovante** | 5e édition des Journées Informatique et Archéologie de Paris (JIAP 2016), Institut dArt et d'Archéologie, 2-4 juin 2016 - date limite de l'appel à communications : 1er mai 2016 - http://ift.tt/1P5Ph2A
+**Archéologie numérique** | 5e édition des Journées Informatique et Archéologie de Paris (JIAP 2016), Institut dArt et d'Archéologie, 2-4 juin 2016 - date limite de l'appel à communications : 1er mai 2016 - http://ift.tt/1P5Ph2A
 
  
 
