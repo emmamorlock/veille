@@ -8,7 +8,7 @@ published: true
 ---
 #Veille sur les humanités numériques
 
-Le 13/03/2016, par Emmanuelle Morlock, ingénieure d'études CNRS au laboratoire [HiSoMA](http://www.hisoma.mom.fr)
+Le 13/03/2016, par Emmanuelle Morlock, ingénieure d'études CNRS au laboratoire [HiSoMA]([http://www.hisoma.mom.fr](http://www.hisoma.mom.fr)) (Lyon)
 
  
 
