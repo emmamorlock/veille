@@ -3,7 +3,7 @@ title: veille_HumanitesNumeriques_20160313
 layout: post
 author: emmanuelle.morlock
 permalink: /veille_humanitesnumeriques_20160313/
-source-id: 1e1AQ8b3MMYHRHJJNgQ5dkDKnW25yvSx38STF159AjMs
+source-id: 1DTGCZljaE2Kx4hohuzMW__ZDvA_Vol7Zix5vdsRWV28
 published: true
 ---
 #Veille sur les humanités numériques
@@ -52,7 +52,7 @@ published: true
 
  
 
-**Ressource** | *Epigraphia 3D* : sélection d'inscriptions romaines numérisés en 3D, issues des collections de 2 musées espagnols - http://ift.tt/1QOwWHb
+**Epigraphie** | *Epigraphia 3D* : sélection d'inscriptions romaines numérisés en 3D, issues des collections de 2 musées espagnols - http://ift.tt/1QOwWHb
 
  
 
@@ -60,7 +60,7 @@ published: true
 
  
 
-**Ressource** | Présentation de bases de données d'inscriptions latines dans le carnet *Actualité des études anciennes* - http://ift.tt/1XkASQo
+**Epigraphie** | Présentation de bases de données d'inscriptions latines dans le carnet *Actualité des études anciennes* - http://ift.tt/1XkASQo
 
  
 
