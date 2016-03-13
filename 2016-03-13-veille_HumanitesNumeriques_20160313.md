@@ -14,7 +14,9 @@ Colonne3
 
 #Une
 
-##En 180' | Une vidéo pour découvrir l'Open access - production lab UA (Université d'Angers) - http://ift.tt/1RctmoS
+##En 180' | 
+
+Une vidéo pour découvrir l'Open access - production lab UA (Université d'Angers) - http://ift.tt/1RctmoS
 
  
 
@@ -24,11 +26,15 @@ Colonne3
 
  
 
-##Colloque | De l'archive aux données massives : Enjeux et perspectives en Humanités Numériques, univ. Sorbonne Paris Cité, 30-31 mars 2016 - http://ift.tt/1YJCAMy
+##Colloque | 
+
+De l'archive aux données massives : Enjeux et perspectives en Humanités Numériques, univ. Sorbonne Paris Cité, 30-31 mars 2016 - http://ift.tt/1YJCAMy
 
  
 
-##Colloque | Collecta, des pratiques antiquaires aux humanités numériques, Ecole du Louvre, Paris, 7-8 avril 2016 - http://ift.tt/1QOn0xc
+##Colloque | 
+
+Collecta, des pratiques antiquaires aux humanités numériques, Ecole du Louvre, Paris, 7-8 avril 2016 - http://ift.tt/1QOn0xc
 
  
 
@@ -38,37 +44,53 @@ Colonne3
 
  
 
-##Offre d'emploi | Chaire d'humanités numériques à l'université de Trèves (Allemagne) - http://ift.tt/22aPTaH
+##Offre d'emploi | 
+
+Chaire d'humanités numériques à l'université de Trèves (Allemagne) - http://ift.tt/22aPTaH
 
  
 
-##DARIAH | Article sur l'infrastructure de recherche européenne : "Data fluidity in DARIAH pushing the agenda forward" par Laurent Romary et al. - http://ift.tt/1U82Lg9
+##DARIAH | 
+
+Article sur l'infrastructure de recherche européenne : "Data fluidity in DARIAH pushing the agenda forward" par Laurent Romary et al. - http://ift.tt/1U82Lg9
 
  
 
 #DH-archeo-edition
 
-##TEI | Compte rendu de la soutenance de thèse de Marie Bisson "Une édition numérique structurée à l'aide de la text encoding initiative des textes montois de dom Thomas LeRoy" (7/12/2015) - http://ift.tt/1nzLCOm
+##TEI | 
+
+Compte rendu de la soutenance de thèse de Marie Bisson "Une édition numérique structurée à l'aide de la text encoding initiative des textes montois de dom Thomas LeRoy" (7/12/2015) - http://ift.tt/1nzLCOm
 
  
 
-##Ressource | *Epigraphia 3D* : sélection d'inscriptions romaines numérisés en 3D, issues des collections de 2 musées espagnols - http://ift.tt/1QOwWHb
+##Ressource | 
+
+*Epigraphia 3D* : sélection d'inscriptions romaines numérisés en 3D, issues des collections de 2 musées espagnols - http://ift.tt/1QOwWHb
 
  
 
-##Edition critique de sources anciennes | Sortie de la version 1.0 de *EVT*, un outil de création d'éditions critiques et diplomatiques à partir de transcriptions encodées en XML/TEI - http://ift.tt/1XkARvH
+##Edition critique de sources anciennes | 
+
+Sortie de la version 1.0 de *EVT*, un outil de création d'éditions critiques et diplomatiques à partir de transcriptions encodées en XML/TEI - http://ift.tt/1XkARvH
 
  
 
-##Ressource | Présentation de bases de données d'inscriptions latines dans le carnet *Actualité des études anciennes* - http://ift.tt/1XkASQo
+##Ressource | 
+
+Présentation de bases de données d'inscriptions latines dans le carnet *Actualité des études anciennes* - http://ift.tt/1XkASQo
 
  
 
-##Journée d'étude | "Transcription collaborative et édition numérique de manuscrits : enjeux outils et perspectives", Archives nationales site de Pierrefitte-sur-Seine, 16 mars 2016 - http://ift.tt/24WoP19
+##Journée d'étude | 
+
+"Transcription collaborative et édition numérique de manuscrits : enjeux outils et perspectives", Archives nationales site de Pierrefitte-sur-Seine, 16 mars 2016 - http://ift.tt/24WoP19
 
  
 
-##Article en ligne | Bruno Bureau, Christian Nicolas et Ariane Pinche, Encoding (inter)textual insertions in Latin "grammatical commentary" - http://ift.tt/1QTh7eV
+##Article en ligne | 
+
+Bruno Bureau, Christian Nicolas et Ariane Pinche, Encoding (inter)textual insertions in Latin "grammatical commentary" - http://ift.tt/1QTh7eV
 
  
 
@@ -78,27 +100,39 @@ Colonne3
 
  
 
-##Data publishing | Edito de Joachim Schöpfel dans *Publier la science*, n° 11, mars 2016 - http://ift.tt/1NH0k0j
+##Data publishing | 
+
+Edito de Joachim Schöpfel dans *Publier la science*, n° 11, mars 2016 - http://ift.tt/1NH0k0j
 
  
 
-##Politique pour la science | Accord international sur les données ouvertes impliquant 4 organisations internationales des sciences - International Council for Science (ICSU) International Social Science Council (ISSC) InterAcademy Partnership (IAP) et The World Academy of Science (TWAS) - http://ift.tt/1Lfj34l
+##Politique pour la science | 
+
+Accord international sur les données ouvertes impliquant 4 organisations internationales des sciences - International Council for Science (ICSU) International Social Science Council (ISSC) InterAcademy Partnership (IAP) et The World Academy of Science (TWAS) - http://ift.tt/1Lfj34l
 
  
 
-##Usages collectifs | "Quels usages collectifs du livre à l'heure du numérique ?", vidéo de l'intervention de Lionel Maurel à la journée d'études "Publier à l'heure digitale : un engagement multidisciplinaire", univ. de Clermont-Ferrand, 29 Février 2016 - http://ift.tt/1W1rmRL
+##Usages collectifs | 
+
+"Quels usages collectifs du livre à l'heure du numérique ?", vidéo de l'intervention de Lionel Maurel à la journée d'études "Publier à l'heure digitale : un engagement multidisciplinaire", univ. de Clermont-Ferrand, 29 Février 2016 - http://ift.tt/1W1rmRL
 
  
 
-##Guide | *form@doct*, un guide d'introduction très complet sur les données de la recherche (univ. européenne de Bretagne) - http://ift.tt/1SBKoOE
+##Guide | 
+
+*form@doct*, un guide d'introduction très complet sur les données de la recherche (univ. européenne de Bretagne) - http://ift.tt/1SBKoOE
 
  
 
-##Libre Accès aux résultats scientifiques | Des chercheurs s'expriment sur les articles 17 et 18 de la loi pour une République numérique (Lettre ouverte parue dans Le Monde du 8 mars 2016) - http://ift.tt/1Xkz8qn
+##Libre Accès aux résultats scientifiques | 
+
+Des chercheurs s'expriment sur les articles 17 et 18 de la loi pour une République numérique (Lettre ouverte parue dans Le Monde du 8 mars 2016) - http://ift.tt/1Xkz8qn
 
  
 
-##Gestion de l'information numérique | Compte rendu du congrès "International Digital Curation Conference" qui s'est tenu à Amsterdam (Pays-Bas) du 22 au 25 février 2016 - http://ift.tt/1M6f5pr
+##Gestion de l'information numérique | 
+
+Compte rendu du congrès "International Digital Curation Conference" qui s'est tenu à Amsterdam (Pays-Bas) du 22 au 25 février 2016 - http://ift.tt/1M6f5pr
 
  
 
