@@ -3,22 +3,22 @@ title: veille_HumanitesNumeriques_20160313
 layout: post
 author: emmanuelle.morlock
 permalink: /veille_humanitesnumeriques_20160313/
-source-id: 1Fc3dbePOZ_WS4OmvNseQJn5Z1CzHpIBeh6K2oTjSMsc
+source-id: 1e1AQ8b3MMYHRHJJNgQ5dkDKnW25yvSx38STF159AjMs
 published: true
 ---
 #Veille sur les humanités numériques
 
-Le 13/03/2016, par Emmanuelle Morlock, ingénieure d'études CNRS au laboratoire [HiSoMA]([http://www.hisoma.mom.fr](http://www.hisoma.mom.fr)) (Lyon)
+*Le 13/03/2016, par Emmanuelle Morlock, ingénieure d'études CNRS au laboratoire [HiSoMA](http://www.hisoma.mom.fr)*
 
  
 
-###Zoom
+###UNE
 
 **En 180'** | Une vidéo pour découvrir l'Open access - production lab UA (Université d'Angers) - http://ift.tt/1RctmoS
 
  
 
-###Enjeux et débats
+###ENJEUX & DEBATS
 
 "The Digital in the Humanities" : interview de Franco Moretti - *The Los Angeles Review of Books* - http://ift.tt/1U23EXN
 
@@ -32,7 +32,7 @@ Le 13/03/2016, par Emmanuelle Morlock, ingénieure d'études CNRS au laboratoire
 
  
 
-###DH-International-Europe
+###EUROPE - INTERNATIONAL
 
 **Signalez vos réalisations HN !** | L'association européenne pour les humanités numériques EADH ouvre sur une vitrine à projets sur son site - http://ift.tt/1okBauZ
 
@@ -46,7 +46,7 @@ Le 13/03/2016, par Emmanuelle Morlock, ingénieure d'études CNRS au laboratoire
 
  
 
-###DH-archeo-edition
+### RESSOURCES EN EDITION DE SOURCES ANCIENNES & ARCHEOLOGIE
 
 **TEI** | Compte rendu de la soutenance de thèse de Marie Bisson "Une édition numérique structurée à l'aide de la text encoding initiative des textes montois de dom Thomas LeRoy" (7/12/2015) - http://ift.tt/1nzLCOm
 
@@ -72,7 +72,7 @@ Le 13/03/2016, par Emmanuelle Morlock, ingénieure d'études CNRS au laboratoire
 
  
 
-###Données de la recherche / IST
+###DONNEES DE LA RECHERCHE / IST
 
 **Bonnes pratiques** | Pour les chercheurs, un guide sur la gestion des données de la recherche publié par le JISC (Royaume-Uni) - http://ift.tt/1SHkolW
 
@@ -122,7 +122,7 @@ Le 13/03/2016, par Emmanuelle Morlock, ingénieure d'études CNRS au laboratoire
 
  
 
-###Dates limites
+###DATES LIMITES
 
 **ANR** | lancement de l'appel à projets 2016 "Au cœur des données numériques" avec 10 partenaires en provenance de 3 continents - date limite : 11 mars 2016 - http://ift.tt/1TVgxmS
 
