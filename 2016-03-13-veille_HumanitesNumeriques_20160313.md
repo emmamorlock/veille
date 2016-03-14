@@ -132,6 +132,8 @@ published: true
 
 **Appel à projets** | Ouverture de l'appel à projets Humanités numériques de la MSH de Poitiers - date limite : 31 mars 2016. - http://ift.tt/1pzihFE
 
+
+ **Public Humanities** | appel à projets de DARIAH-EU pour l'organisation de colloques, ateliers et hackathons - date limite : 31 mars 2016 - http://ift.tt/1QOwYih
  
 
 **Préservation numérique** | La 13e édition du congrès international iPRES (International Conference on Digital Preservation) se tiendra à Berne du 3 au 6 octobre 2016 - date limite de l'appel à communications : 16 avril 2016. - http://ipres2016.ch/
@@ -162,7 +164,7 @@ published: true
 
  
 
-**Public Humanities** | appel à projets de DARIAH-EU pour l'organisation de colloques, ateliers et hackathons - date limite : 31 mars 2016 - http://ift.tt/1QOwYih
+
 
  
 
