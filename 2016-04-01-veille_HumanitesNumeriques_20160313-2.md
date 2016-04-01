@@ -60,17 +60,17 @@ Le "**Day of DH 2016**" se déroulera le 8 avril 2016 | L'événement "A Day in 
 
 **Université** : les vice-présidents numérique en réseau, via LaLIST (INIST-CNRS) [https://trello.com/c/KmDRT04V](https://trello.com/c/KmDRT04V)
 
-Europe - International
+###Europe - International
 
 **DH 2016** | Ouverture des inscriptions pour le grand congrès international "Digital Humanities 2016", 11-16 juillet 2016, Cracovie (tarif précoce jusqu'au 10 mai 2016) - [https://trello.com/c/0sh03OHO](https://trello.com/c/0sh03OHO)
 
-Données de la recherche / IST
+###Données de la recherche / IST
 
 **Zotero** 4 tutoriels de la BULAC sur l'outil de gestion de bibliographies en ligne - via le site des CORIST de l'INSHS - https://trello.com/c/4SNuZyxa 
 
 **Données de la recherche** | Partenariats possibles dans le cadre de DoRANum, un projet mené conjointement par le réseau des Urfits, l'INIST-CNRS et la Bibliothèque Scientifique Numérique (BSN) - [https://trello.com/c/IrkHhLGr](https://trello.com/c/IrkHhLGr)
 
-Dates limites
+###Dates limites
 
 **Appel à communications et à posters jeunes chercheurs** | Journée "Mapping the scope and reach of the digital humanities", 20 mai 2016, King's College Londres - Date limite : 11 avril 2016 - https://trello.com/c/A1QrXsA5
 
