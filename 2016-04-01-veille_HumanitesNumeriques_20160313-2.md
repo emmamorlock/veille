@@ -6,7 +6,9 @@ permalink: /veille_humanitesnumeriques_20160313-2/
 source-id: 1gxt5Pf0u5Zo0E9dbxIDSzjSPIYHkeFAsTW8bRPalsJk
 published: true
 ---
-#Veille sur les humanités numériques*Le 31/03/2016, par Emmanuelle Morlock, ingénieure d'études CNRS au laboratoire [HiSoMA]([http://www.hisoma.mom.fr](http://www.hisoma.mom.fr))*
+#Veille sur les humanités numériques
+
+*Le 31/03/2016, par Emmanuelle Morlock, ingénieure d'études CNRS au laboratoire [HiSoMA]([http://www.hisoma.mom.fr](http://www.hisoma.mom.fr))*
 
 ###Zoom
 
@@ -20,11 +22,7 @@ Dossier spécial "Humanités numériques et Sciences de l'information et de la c
 
 **Fouille de texte et de données** | pour une introduction aux enjeux du libre accès et du partage des données de la recherche, lire le billet de Dinah Gallino dans le blog *Prospectibles* - https://trello.com/c/VWbLyD4K
 
- 
-
 "Sciences et big data : La fin de la théorie ?" Interview réalisée pour un numéro spécial sur le thème "Responsabilité, intégrité et éthique dans la recherche" (revue *L'Archicube*) - via Henri Verdier Blog - https://trello.com/c/RZmp8amW
-
- 
 
 **Libre accès** | Appel à billets et contributions en amont du colloque "Open Access et évaluation de la Recherche : vers un nouvel écosystème ?" organisé par le Réseau Archives ouvertes Toulouse qui se déroulera à Toulouse les 13 et 14 octobre 2016 - [https://trello.com/c/gu8nImPU](https://trello.com/c/gu8nImPU)
 
@@ -32,21 +30,11 @@ Dossier spécial "Humanités numériques et Sciences de l'information et de la c
 
 Parution | Elton Barker and Melissa Terras, *Greek Literature the Digital Humanities and the Shifting Technologies of Reading*, Oxford Handbooks - https://trello.com/c/izfps8C4
 
-Archéologie, édition savante numérique
-
-**Analyse et visualisation de réseaux** | Tutoriel sur l'utilisation du logiciel libre Visone (univ. de Constance) appliqué à l'archéologie - *Archeological Networks* [https://trello.com/c/cfXw9lS9](https://trello.com/c/cfXw9lS9)
-
-**Analyse et visualisation de réseaux** | "If all you have is a hammer everything looks like a nail. Towards best practice guidelines for network science in archaeology (reblogged)" - *Archaeological Networks* - https://trello.com/c/Bcctf9Ox
-
- 
+**Analyse et visualisation de réseaux** | Tutoriel sur l'utilisation du logiciel libre Visone (univ. de Constance) appliqué à l'archéologie - *Archeological Networks* [https://trello.com/c/cfXw9lS9](https://trello.com/c/cfXw9lS9) + "If all you have is a hammer everything looks like a nail. Towards best practice guidelines for network science in archaeology (reblogged)" - *Archaeological Networks* - https://trello.com/c/Bcctf9Ox
 
 "L'Odyssée aujourdhui : projets de recherche et d'enseignement", séminaire *Digital Humanities** de l'EHESS et du programme e-philologie* de PSL, 6 avril 2016, EHESS Paris - https://trello.com/c/rmuJfRwo
 
- 
-
 "Epigraphy Enchiridion: A List of Open Access Books for Teaching Greek and Roman Inscriptions" | Sarah E. Bond - https://trello.com/c/8gHyMAHT
-
- 
 
 "Muséologie, patrimoine, humanités numériques et 3D", par F. Laroche et J.-L. Kerouanton, communication à la conférence Digital Intelligence (Canada avril 2016) via l'archive ouverte HAL - [https://trello.com/c/xEYO875i](https://trello.com/c/xEYO875i)
 
@@ -66,15 +54,9 @@ Atelier des Humanités numériques de l'ENS de Lyon (AHN) : programme des atelie
 
 **Infrastructures** | Stratégie nationale des infrastructures de recherche 2016 - https://trello.com/c/4PYDql36
 
- 
-
 **Vidéo en ligne** | "Cartographier le web avec Hyphe" par P. Girard, directeur technique du Médialab de Sciences-Po - https://trello.com/c/RHi7nv5U
 
- 
-
 "Utiliser Twitter en historien-ne ?" billet de Sébastien Poublanc - La boîte à outils des historiens - https://trello.com/c/KpbUUQmn
-
- 
 
 **Université** : les vice-présidents numérique en réseau, via LaLIST (INIST-CNRS) [https://trello.com/c/KmDRT04V](https://trello.com/c/KmDRT04V)
 
@@ -108,11 +90,7 @@ Dates limites
 
 **Ecole d'été Humanités numériques** | Public cible : historiens, archéologues, philologues, chercheurs en sciences de l'antiquité, conservateurs et spécialistes du patrimoine culturel - inscriptions jusqu'au : 15 mai 2016 - https://trello.com/c/gvVkCPWO
 
- 
-
 **Philologie numérique** | Programme transatlantique de la FMSH de collaboration en humanités numériques, avec une attention spéciale aux projets de "philologie numérique" - date limite : 16 mai 2016 - https://trello.com/c/Z1tf5iMw
-
- 
 
 **Appel à propositions d'articles et de posters** | 5ème congrès annuel de l'AIUCD (association italienne des Humanités numériques), 7-9 septembre 2016, Venise - Date limite : 31 mai 2016 - https://trello.com/c/QKsoJ3GG
 
