@@ -32,15 +32,15 @@ published: true
 
 **Analyse et visualisation de réseaux** | Tutoriel sur l'utilisation du logiciel libre Visone (univ. de Constance) appliqué à l'archéologie - Archeological Networks - <[https://archaeologicalnetworks.wordpress.com/2016/03/15/awesome-archaeological-networks-tutorial-using-visone/](https://archaeologicalnetworks.wordpress.com/2016/03/15/awesome-archaeological-networks-tutorial-using-visone/)> - "If all you have is a hammer everything looks like a nail. Towards best practice guidelines for network science in archaeology (reblogged)" - Archaeological Networks - <[https://archaeologicalnetworks.wordpress.com/2016/03/31/if-all-you-have-is-a-hammer-everything-looks-like-a-nail-towards-best-practice-guidelines-for-network-science-in-archaeology-reblogged/](https://archaeologicalnetworks.wordpress.com/2016/03/31/if-all-you-have-is-a-hammer-everything-looks-like-a-nail-towards-best-practice-guidelines-for-network-science-in-archaeology-reblogged/)>
 
-"L'Odyssée aujourdhui : projets de recherche et d'enseignement" séminaire *Digital Humanities* de lEHESS et du programme *e-philologie* de PSL, 6 avril 2016, EHESS Paris - <https://philologia.hypotheses.org/1610>
+"L'**Odyssée aujourdhui** : projets de recherche et d'enseignement" séminaire *Digital Humanities* de lEHESS et du programme *e-philologie* de PSL, 6 avril 2016, EHESS Paris - <https://philologia.hypotheses.org/1610>
 
  
 
-"Epigraphy Enchiridion: A List of Open Access Books for Teaching Greek and Roman Inscriptions" | Sarah E. Bond - <https://sarahemilybond.wordpress.com/2016/03/10/epigraphy-enchiridion-a-list-of-open-access-books-for-teaching-greek-and-roman-inscriptions/>
+"Epigraphy Enchiridion: A List of Open Access Books for **Teaching Greek and Roman Inscriptions**" | Sarah E. Bond - <https://sarahemilybond.wordpress.com/2016/03/10/epigraphy-enchiridion-a-list-of-open-access-books-for-teaching-greek-and-roman-inscriptions/>
 
  
 
-"Muséologie, patrimoine, humanités numériques et 3D", par F. Laroche et J.-L. Kerouanton, communication à la conférence Digital Intelligence (Canada avril 2016) via l'archive ouverte HAL - <[https://hal.archives-ouvertes.fr/hal-01280767](https://hal.archives-ouvertes.fr/hal-01280767)>
+"**Muséologie, patrimoine, humanités numériques et 3D**", par F. Laroche et J.-L. Kerouanton, communication à la conférence Digital Intelligence (Canada avril 2016) via l'archive ouverte HAL - <[https://hal.archives-ouvertes.fr/hal-01280767](https://hal.archives-ouvertes.fr/hal-01280767)>
 
 ###Lyon St-Etienne
 
@@ -79,8 +79,6 @@ published: true
 ###Données de la recherche / IST
 
 **Zotero** 4 tutoriels de la BULAC sur l'outil de gestion de bibliographies en ligne - via le site des CORIST de l'INSHS - http://corist-shs.cnrs.fr/Zotero_Bulac_2016
-
-Données de la recherche / IST
 
 **Données de la recherche** | Partenariats possibles dans le cadre de DoRANum, un projet mené conjointement par le réseau des Urfits, l'INIST-CNRS et la Bibliothèque Scientifique Numérique (BSN) - <[http://urfistinfo.hypotheses.org/2980](http://urfistinfo.hypotheses.org/2980)>
 
