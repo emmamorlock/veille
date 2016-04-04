@@ -16,9 +16,9 @@ published: true
 
 ###Enjeux & débats
 
-**Dossier spécial** "Humanités numériques et Sciences de l'information et de la communication" - *RFSIC* n° 8 - https://rfsic.revues.org/1778
+**Dossier spécial** "Humanités numériques et Sciences de l'information et de la communication" - *RFSIC* n° 8 - [https://rfsic.revues.org/1778](https://rfsic.revues.org/1778)
 
-"Réseaux sociaux pour chercheurs la visibilité à quel prix ?" - Le Carreau de la BULAC - <[https://bulac.hypotheses.org/4189](https://bulac.hypotheses.org/4189)>
+"**Réseaux sociaux** pour chercheurs la visibilité à quel prix ?" - Le Carreau de la BULAC - <[https://bulac.hypotheses.org/4189](https://bulac.hypotheses.org/4189)>
 
 **Fouille de texte et de données** | Bonne introduction aux enjeux du libre accès et du partage des données de la recherche - blog *Prospectibles* - <[http://blogs.sciences-po.fr/prospectibles/2016/03/15/libre-acces-et-partage-des-donnees-de-la-recherche-vers-ue-science-ouverte-ii-lexploration-de-contenus/](http://blogs.sciences-po.fr/prospectibles/2016/03/15/libre-acces-et-partage-des-donnees-de-la-recherche-vers-une-science-ouverte-ii-lexploration-de-contenus/)>
 
