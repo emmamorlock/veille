@@ -16,7 +16,7 @@ published: true
 
 ###Enjeux & débats
 
-**Dossier spécial** "Humanités numériques et Sciences de l'information et de la communication" - *RFSIC* n° 8 - [https://rfsic.revues.org/1778](https://rfsic.revues.org/1778)
+**Dossier spécial** "Humanités numériques et Sciences de l'information et de la communication" - *RFSIC* n° 8 - <[https://rfsic.revues.org/1778](https://rfsic.revues.org/1778)>
 
 "**Réseaux sociaux** pour chercheurs la visibilité à quel prix ?" - Le Carreau de la BULAC - <[https://bulac.hypotheses.org/4189](https://bulac.hypotheses.org/4189)>
 
@@ -24,11 +24,11 @@ published: true
 
 "Sciences et **big data** : La fin de la théorie ?" Interview réalisée pour un numéro spécial sur le thème "Responsabilité, intégrité et éthique dans la recherche" (revue *L'Archicube*) - via Henri Verdier Blog - <[http://www.henriverdier.com/2016/03/sciences-et-big-data-la-fin-de-la.html](http://www.henriverdier.com/2016/03/sciences-et-big-data-la-fin-de-la.html)>
 
-**Libre accès** | Appel à billets et contributions en amont du colloque "Open Access et évaluation de la Recherche : vers un nouvel écosystème ?" organisé par le Réseau Archives ouvertes Toulouse qui se déroulera à Toulouse les 13 et 14 octobre 2016 - [http://corist-shs.cnrs.fr/ColloqueOpenaccess_evaluation_toulouse_2016](http://corist-shs.cnrs.fr/ColloqueOpenaccess_evaluation_toulouse_2016)
+**Libre accès** | Appel à billets et contributions en amont du colloque "Open Access et évaluation de la Recherche : vers un nouvel écosystème ?" organisé par le Réseau Archives ouvertes Toulouse qui se déroulera à Toulouse les 13 et 14 octobre 2016 - <[http://corist-shs.cnrs.fr/ColloqueOpenaccess_evaluation_toulouse_2016](http://corist-shs.cnrs.fr/ColloqueOpenaccess_evaluation_toulouse_2016)>
 
 ###Archéologie, édition savante numérique
 
-**Parution** | Elton Barker and Melissa Terras Greek Literature the Digital Humanities and the Shifting Technologies of Reading Oxford Handbooks - [http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199935390.001.0001/oxfordhb-9780199935390-e-45?rskey=aeAMNi&result=1](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199935390.001.0001/oxfordhb-9780199935390-e-45?rskey=aeAMNi&result=1)
+**Parution** | Elton Barker and Melissa Terras Greek Literature the Digital Humanities and the Shifting Technologies of Reading Oxford Handbooks - <[http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199935390.001.0001/oxfordhb-9780199935390-e-45?rskey=aeAMNi&result=1](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199935390.001.0001/oxfordhb-9780199935390-e-45?rskey=aeAMNi&result=1)>
 
 **Analyse et visualisation de réseaux** | Tutoriel sur l'utilisation du logiciel libre Visone (univ. de Constance) appliqué à l'archéologie - Archeological Networks - <[https://archaeologicalnetworks.wordpress.com/2016/03/15/awesome-archaeological-networks-tutorial-using-visone/](https://archaeologicalnetworks.wordpress.com/2016/03/15/awesome-archaeological-networks-tutorial-using-visone/)> - "If all you have is a hammer everything looks like a nail. Towards best practice guidelines for network science in archaeology (reblogged)" - Archaeological Networks - <[https://archaeologicalnetworks.wordpress.com/2016/03/31/if-all-you-have-is-a-hammer-everything-looks-like-a-nail-towards-best-practice-guidelines-for-network-science-in-archaeology-reblogged/](https://archaeologicalnetworks.wordpress.com/2016/03/31/if-all-you-have-is-a-hammer-everything-looks-like-a-nail-towards-best-practice-guidelines-for-network-science-in-archaeology-reblogged/)>
 
@@ -54,7 +54,7 @@ published: true
 
 **Valorisation, patrimoine et numérique** | Des porteurs de projets en SHS rencontrent des représentants du monde socio-économique pour tisser des partenariats - Petit-déjeuner du CVT Athéna "Patrimoine & Numérique", 6 avril 2016, Meudon - <[http://www.cvt-athena.fr/actualites/evenements-a-venir/117-petit-dejeuner-du-cvt-athena-patrimoine-numerique.html](http://www.cvt-athena.fr/actualites/evenements-a-venir/117-petit-dejeuner-du-cvt-athena-patrimoine-numerique.html)>
 
-**Colloque** | #EDICRIL : "Écrire, éditer, lire à l'ère numérique : design et innovation dans la chaîne du livre", organisé par l'Université de Nîmes et Carré d’Art Bibliothèques, en partenariat avec Actes Sud et Forum des Débats, 12-13 avril 2016, Nîmes
+**Colloque** | #EDICRIL : "Écrire, éditer, lire à l'ère numérique : design et innovation dans la chaîne du livre", organisé par l'Université de Nîmes et Carré d’Art Bibliothèques, en partenariat avec Actes Sud et Forum des Débats, 12-13 avril 2016, Nîmes - <http://ecridil.hypotheses.org/>
 
 **Images et archéologie** | Séminaire "pratiques numériques en SHS" de la MSH Val de Loire. Interventions de N. Lubtchansky "Lier l'iconographie au contexte archéologique" et de G. Sarah "La plate-forme de numérisation des monnaies et objets archéologique de la MSH Val-de-Loire - Jeudi 28 avril 2016 - <http://calenda.org/351204>
 
