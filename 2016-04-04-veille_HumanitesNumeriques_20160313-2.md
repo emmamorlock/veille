@@ -1,5 +1,5 @@
 ---
-title: veille_HumanitesNumeriques_20160313-2
+title: veille_HumanitesNumeriques_20160313-2bis
 layout: post
 author: emmanuelle.morlock
 permalink: /veille_humanitesnumeriques_20160313-2/
